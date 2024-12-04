@@ -5,7 +5,7 @@
   <img src="./blogs/static/blogs/img/logo.png" alt="Django logo">
 </div>
 <br>
-> Maintained by <a rel="" href="https://github.com/cosmicray001">Shakib Izaz Mahmud</a>
+> Maintained by <a rel="" href="https://imahmud98.github.io/">Shakib Izaz Mahmud</a>
 
 ---
 ## Contents
